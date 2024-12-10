@@ -15,8 +15,7 @@
 - Reduces boilerplate code.
 - Encourages best practices in Redux management.
 - Makes state management more predictable and easier to maintain.
-
--   
+  
 ## React-Redux with Redux Toolkit ##:
 - `configureStore` replaces traditional store creation.
 - `createSlice` combines state, reducers, and actions into a single definition.
